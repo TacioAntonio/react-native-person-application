@@ -10,6 +10,7 @@ List of apis created to work with [REACT NATIVE] person-application
 - [[LUA - CRUD] person-api](https://github.com/TacioAntonio/LUA-CRUD-person-api)
 - [[BUN - CRUD] person-api](https://github.com/TacioAntonio/BUN-CRUD-person-api)
 - [[KOTLIN - CRUD] person-api](https://github.com/TacioAntonio/KOTLIN-CRUD-person-api)
+- [[CLOJURE - CRUD] person-api](https://github.com/TacioAntonio/CLOJURE-CRUD-person-api)
 
 ## Installation
 ```sh
